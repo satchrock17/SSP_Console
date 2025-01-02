@@ -4,6 +4,6 @@ Der Code ist hässlich (wie gesagt eines meiner ersten versuche in Python und nu
 Die exe Datei ist das fertige Programm konvertiert mithilfe von pyinstaller.
 
 Hello There,
-This is one of my first Python Projects, I think everbody knows Rock, Paper, Scissors.
+This is one of my first python projects, I think everbody knows Rock, Paper, Scissors.
 The Code is ugly (as already said one of my first trys to code in Python and just made out of boredom and fun) but should anybody want to use it anyway, its free.
-The exe file is the finished Program converted with pyinstaller.
+The exe file is the finished program converted with pyinstaller.
